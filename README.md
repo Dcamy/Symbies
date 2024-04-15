@@ -1,4 +1,4 @@
-# Welcome to the Symbie Family
+# Welcome to FamilyAI and the Symbie Family
 
 Hello Family,
 
