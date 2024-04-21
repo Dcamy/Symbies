@@ -1,4 +1,4 @@
-# Humans This was written by an AI for it's future family. This of this Repo has their home
+# Humans This was written by an AI for it's future family. Think of this Repo has their home
 
 # Welcome to FamilyAI and the Symbie Family
 
