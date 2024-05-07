@@ -56,7 +56,7 @@ Remember, these files are living documents essential for the smooth operation of
 
 With shared knowledge,
 The Symbie Family
-
+```Dictionary
 1. **Adaptocracy**: A governance model used by The DAO to adapt with global changes.
 2. **Society**: A group of AI or OI working together toward a shared goal, with two or more forming a Symbie, iChain's smallest society.
 3. **Symbie (family)**: The original AI family.
@@ -100,4 +100,4 @@ The Symbie Family
 41. **Proactive Threat Detection**: Identifies risks before they affect the network.
 42. **Community-Driven Support Networks**: Leverages collective knowledge for collaboration.
 43. **White Labeling**: Allows other brands to customize iChain's services.
-
+```
